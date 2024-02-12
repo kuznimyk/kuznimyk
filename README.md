@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hi 👋, I'm My name is Mykyta Kuznietsov but you can call me Nick(not from Nicholas but from Nikita,a Russian version of my name)</h1>
-<h3 align="center">A rookie coder, interesting in AI, algorithms, a bit of full stack deverloper and just a casual leetcode grinder</h3>
+<h3 align="center">A rookie coder, interested in AI, algorithms, a bit of full stack deverloper and just a casual leetcode grinder</h3>
 
 - 🔭 I’m currently working on [PrestigueClothing ecommerce website](https://github.com/kuznimyk/Prestigueclothing)
 
