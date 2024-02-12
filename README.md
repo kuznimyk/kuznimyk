@@ -33,6 +33,7 @@
 
 [![Mykyta's GitHub stats](https://github-readme-stats.vercel.app/api?username=kuznimyk&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kuzmimyk&size_weight=0.5&count_weight=0.5)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kuznimyk&show_icons=true&locale=en&layout=compact" alt="kuznimyk" /></p>
 
