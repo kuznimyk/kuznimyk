@@ -1,4 +1,4 @@
-<div align = "center">![image](https://github.com/kuznimyk/kuznimyk/assets/107644692/3aba8dd7-71db-4906-a00f-9b296869c4f2)<div>
+<img src = "https://static.vecteezy.com/system/resources/previews/025/500/843/non_2x/financial-chart-on-dark-background-represent-financial-data-analysis-and-analysis-financial-graphs-glowing-lines-and-diagrams-on-digital-screen-ai-generated-free-photo.jpg">
 
 
 
