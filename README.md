@@ -1,4 +1,5 @@
-![image](https://github.com/kuznimyk/kuznimyk/assets/107644692/6d9330b7-dbd3-4867-a89a-57bd083b6ff4)
+![image](https://github.com/kuznimyk/kuznimyk/assets/107644692/17289344-2c7a-4992-bdc5-04283a41cafc)
+
 
 <h1 align="center">Hi 👋, I'm My name is Mykyta Kuznietsov but you can call me Nick(not from Nicholas but from Nikita,a Russian version of my name)</h1>
 <h3 align="center">A rookie coder, interesting in AI, algorithms, a bit of full stack deverloper and just a casual leetcode grinder</h3>
