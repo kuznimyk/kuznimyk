@@ -1,4 +1,4 @@
-!<div align = "center"><img src = "[https://img.freepik.com/premium-photo/abstract-data-graph-concept-with-data-clusters-particles-digital-sorting-management-concept-business-finance-generated-ai_116953-3270.jpg?w=996](https://miro.medium.com/v2/resize:fit:5904/1*9wHbtSZRuyFyd0hMTt2ptQ.png)"><div>
+!<div align = "center"><img src = "[[https://img.freepik.com/premium-photo/abstract-data-graph-concept-with-data-clusters-particles-digital-sorting-management-concept-business-finance-generated-ai_116953-3270.jpg?w=996](https://miro.medium.com/v2/resize:fit:5904/1*9wHbtSZRuyFyd0hMTt2ptQ.png)](https://static.vecteezy.com/system/resources/previews/025/500/843/non_2x/financial-chart-on-dark-background-represent-financial-data-analysis-and-analysis-financial-graphs-glowing-lines-and-diagrams-on-digital-screen-ai-generated-free-photo.jpg)"><div>
 
 
 <h1 align="center">Hi 👋, I'm My name is Mykyta Kuznietsov but you can call me Nick(not from Nicholas but from Nikita,a Russian version of my name)</h1>
