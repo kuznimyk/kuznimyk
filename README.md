@@ -1,4 +1,4 @@
-![image](https://github.com/kuznimyk/kuznimyk/assets/107644692/17289344-2c7a-4992-bdc5-04283a41cafc)
+!<div align = "center">[image](https://github.com/kuznimyk/kuznimyk/assets/107644692/17289344-2c7a-4992-bdc5-04283a41cafc)<div>
 
 
 <h1 align="center">Hi 👋, I'm My name is Mykyta Kuznietsov but you can call me Nick(not from Nicholas but from Nikita,a Russian version of my name)</h1>
