@@ -20,7 +20,7 @@
 
 - 📄 Know about my experiences [Not much of exeperience](Not much of exeperience)
 
-- ⚡ Fun fact: first year student of the Universiry of Alberta at Augustana(2023-2024 Academic Year). Major: Computer Science and Mathematics. University of Alberta(North Campus) Major(2024-2027 Academic years): Artificial Intelligence, Minor: Math
+- ⚡ Fun fact: first year student of the Universiry of Alberta at Augustana(2023-2024 Academic Year). Major: Computer Science and Mathematics. University of Alberta(North Campus)(2024-2027 Academic years) Major: Artificial Intelligence, Minor: Math
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
