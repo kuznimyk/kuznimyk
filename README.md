@@ -8,7 +8,8 @@
 - 🔭 I’m currently working on [PrestigueClothing ecommerce website](https://github.com/kuznimyk/Prestigueclothing)
 
 - 🌱 I’m currently learning **Django Rest Framework, React and different Data Structures, currently mastering Two Pointers**
-- - ![image](https://github.com/kuznimyk/kuznimyk/assets/107644692/11ac7668-cc57-4a5b-86be-b148f8ba15bc)
+- ![image](https://github.com/kuznimyk/kuznimyk/assets/107644692/965c72e3-bf2f-4a73-bab9-02c5ec3bcf3a)
+
 
 - 🤝 I’m looking for help with **Understanding of graphs**
 
