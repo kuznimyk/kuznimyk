@@ -10,7 +10,8 @@
 - 🌱 I’m currently learning **Django Rest Framework, React and different Data Structures, currently mastering Two Sliding Window**
 - ![image](https://github.com/kuznimyk/kuznimyk/assets/107644692/d2ef8d5c-c2fb-45cb-97e2-32ea458d844c)
 - ![image](https://github.com/kuznimyk/kuznimyk/assets/107644692/8c599af9-77c4-4cb4-b418-e333b5c3b7c8)
-- ![image](https://github.com/kuznimyk/kuznimyk/assets/107644692/67ac0c7d-97ce-4e48-8fc2-2d58c1d91384)
+![image](https://github.com/kuznimyk/kuznimyk/assets/107644692/c48b3a89-e766-482a-ab89-7cb13f1ec1a4)
+
 
 
 
