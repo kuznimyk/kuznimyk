@@ -2,8 +2,8 @@
 
 
 
-<h1 align="center">Hi 👋, I'm My name is Mykyta but you can call me Nick</h1>
-<h3 align="center">A rookie coder, interested in AI, algorithms, a bit of full stack deverloper and just a casual leetcode grinder</h3>
+<h1 align="center">Hi I'm Nick</h1>
+<h3 align="center">UAIS AI and ML Ualberta club member, proeficient in Python, C++, C#, Java and Python</h3>
 
 - 🔭 I’m currently working on [PrestigueClothing ecommerce website](https://github.com/kuznimyk/Prestigueclothing)
 
@@ -27,8 +27,7 @@
 
 - 📄 Know about my experiences [Not much of exeperience](Not much of exeperience)
 
-- ⚡ Fun fact: first year student of the Universiry of Alberta at Augustana(2023-2024 Academic Year). Major: Computer Science and Mathematics. University of Alberta(North Campus)(2024-2027 Academic years) Major: Artificial Intelligence, Minor: Math
-
+- ⚡ Fun fact: I'm part of University of Alberta Powerlifting Association.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/mykyta-kuznietsov-16a826290/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mykyta-kuznietsov-16a826290/" height="30" width="40" /></a>
