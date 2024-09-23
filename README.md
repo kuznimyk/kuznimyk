@@ -1,5 +1,4 @@
-<img src = "![image]![cover](https://github.com/user-attachments/assets/93a2772e-eb41-4a90-b381-8a1d7ad89983)
-">
+<img src = "![image](https://github.com/user-attachments/assets/d4345d1f-2a16-40e4-916e-4aa0fce0b26d)">
 
 
 
