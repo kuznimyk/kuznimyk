@@ -1,4 +1,4 @@
-<img src = "https://static.vecteezy.com/system/resources/previews/025/500/843/non_2x/financial-chart-on-dark-background-represent-financial-data-analysis-and-analysis-financial-graphs-glowing-lines-and-diagrams-on-digital-screen-ai-generated-free-photo.jpg">
+<img src = "![image](https://github.com/user-attachments/assets/d2a7267e-d160-4884-a3f4-5e3fec43d5bd)">
 
 
 
