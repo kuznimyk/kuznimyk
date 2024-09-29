@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hi I'm Nick</h1>
-<h3 align="center">UAIS AI and ML Ualberta club member, proeficient in Python, C++, C#, Java and Python</h3>
+<h3 align="center">UAIS AI and ML Ualberta club member, proeficient in Python, C++, C#, Java</h3>
 
 - 🔭 I’m currently working on [PrestigueClothing ecommerce website](https://github.com/kuznimyk/Prestigueclothing)
 
