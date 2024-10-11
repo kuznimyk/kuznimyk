@@ -9,25 +9,12 @@
 
 - 🌱 I’m currently learning **Django Rest Framework, React and different Data Structures, currently mastering Sliding Window**
 - ![image](https://github.com/kuznimyk/kuznimyk/assets/107644692/d2ef8d5c-c2fb-45cb-97e2-32ea458d844c)
-- ![image](https://github.com/kuznimyk/kuznimyk/assets/107644692/8c599af9-77c4-4cb4-b418-e333b5c3b7c8)
-![image](https://github.com/kuznimyk/kuznimyk/assets/107644692/c48b3a89-e766-482a-ab89-7cb13f1ec1a4)
 
 
 
 
 
 
-- 🤝 I’m looking for help with **Understanding of graphs**
-
-- 👨‍💻 All of my projects are available at [https://github.com/kuznimyk](https://github.com/kuznimyk)
-
-- 💬 Ask me about **How to optimize the code in efficient way**
-
-- 📫 How to reach me **kuznimyk@gmail.com. Telegram app: @nikitohadancev**
-
-- 📄 Know about my experiences [Not much of exeperience](Not much of exeperience)
-
-- ⚡ Fun fact: I'm part of University of Alberta Powerlifting Association.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/mykyta-kuznietsov-16a826290/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mykyta-kuznietsov-16a826290/" height="30" width="40" /></a>
